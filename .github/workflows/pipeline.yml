@@ -2,7 +2,7 @@
 defaults:
   run:
     working-directory: modern-web-app
-    env:
+env:
   NODE_VERSION: "20.11"
 name: CI/CD Pipeline
 on: push
